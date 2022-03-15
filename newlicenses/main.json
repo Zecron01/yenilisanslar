@@ -2,11 +2,7 @@
    {
       "ip":"192.168.1.104",
       "hash":"ab247e7ddc82be968e17099fea66edc3",
-      "owner":"arda"
+      "owner":"arda",
+      "wbhook":"https://discord.com/api/webhooks/953360741681995778/Li3mkqa4V_YmW3KxN_-RpK2GZKkeUdXePBO2m4l0fnlxPWmrK3geTrXlr9amudpUA4dX",
    },
-   {
-      "ip":"192.168.1.22",
-      "hash":"6309c1d1c2a900791e3100557444fa74",
-      "owner":"sezerabi"
-   }
 ]
